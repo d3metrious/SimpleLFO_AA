@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Skeleton.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Compiling the PiPL
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25831 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  SkeletonPiPL.r
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25831 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  SkeletonPiPL.rrc
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Adobe After Effects CC 2015\Support Files\Plug-ins\JDBuilds\SimpleLFO.aex
